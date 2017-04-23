@@ -12,3 +12,7 @@ html * {
    font-family: 'Quicksand', sans-serif;
 
 }
+
+.headerBreakLogo {
+  border-bottom: 100px;
+}
